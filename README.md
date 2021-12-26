@@ -1,2 +1,2 @@
 # tumaltyapilarim
-HERŞEYİMİ VURDA PAYLAŞIP DC ORTAMINDA ARTIK BOT YAPMICAM HİÇ BİR SUNUCUYA VE GİDİCEM !
+40 Satırda Paylaşıcam pm2 Önüne gelen geliştirici oluyor buna dur deme vakti geldi sizde olun aw !
