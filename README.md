@@ -1,2 +1,3 @@
 # tumaltyapilarim
-60 Starda Paylaşıcam pm2 Önüne gelen geliştirici oluyor buna dur deme vakti geldi sizde olun aw !
+Se7enda Kullandığım V12 Bot Sistemim Fakat Şu Şekilde Burdan Acar Abime Çok Teşekür Ediyorum Onun Sayesinde Buralara Geldim Emeği Çok Fazla Starlarsanız Sevinirim.
+v13 e Geçtiğim İçin Paylaşıyorum Herkes Alsın Kullansın Geliştirsin Sorunsuz Çalışıyor Sistem <3 Yardım Almak İçin : Transsly#0001
