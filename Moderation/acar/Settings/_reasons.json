@@ -1,0 +1,31 @@
+{
+       "jail": [ 
+            {"sebep": "Cinsellik, taciz ve ağır hakaret", "suresi": "7d", "zaman": "1 Hafta", "emoji": "1️⃣"},
+            {"sebep": "Sunucu kurallarına uyum sağlamamak", "suresi": "3d", "zaman": "3 Gün", "emoji": "2️⃣"},
+            {"sebep": "Sesli/Mesajlı/Ekran P. DM Taciz", "suresi": "1d", "zaman": "1 Gün", "emoji": "3️⃣"},
+            {"sebep": "Dini, Irki ve Siyasi değerlere Hakaret", "suresi": "30d", "zaman": "1 Ay", "emoji": "4️⃣"},
+            {"sebep": "Abartı rahatsız edici yaklaşımda bulunmak!", "suresi": "14d", "zaman": "2 Hafta", "emoji": "5️⃣"},
+            {"sebep": "Sunucu içerisi abartı trol / Kayıt trol yapmak!", "suresi": "3d", "zaman": "3 Gün", "emoji": "6️⃣"},
+            {"sebep": "Sunucu Kötüleme / Saygısız Davranış", "suresi": "30d", "zaman": "1 Ay", "emoji": "7️⃣"}
+       ],
+       "Cmute": [
+            {"sebep": "Kışkırtma, Trol ve Dalgacı Davranış", "suresi": "5m", "zaman": "5 Dakika", "emoji": "1️⃣"},
+            {"sebep": "Flood,Spam ve Capslock Kullanımı", "suresi": "5m", "zaman": "5 Dakika", "emoji": "2️⃣"},
+            {"sebep": "Metin Kanallarını Amacı Dışında Kullanmak", "suresi": "10m", "zaman": "10 Dakika", "emoji": "3️⃣"},
+            {"sebep": "Küfür, Argo, Hakaret ve Rahatsız Edici Davranış", "suresi": "5m", "zaman": "5 Dakika", "emoji": "4️⃣"},
+            {"sebep": "Abartı, Küfür ve Taciz Kullanımı", "suresi": "30m", "zaman": "30 Dakika", "emoji": "5️⃣"},
+            {"sebep": "Dini, Irki ve Siyasi değerlere Hakaret", "suresi": "14d", "zaman": "2 Hafta", "emoji": "6️⃣"},
+            {"sebep": "Sunucu Kötüleme ve Kişisel Hakaret", "suresi": "1h", "zaman": "1 Saat", "emoji": "7️⃣"}
+       ],
+
+       "Vmute": [
+            {"sebep": "Kışkırtma, Trol ve Dalgacı Davranış", "suresi": "5m", "zaman": "5 Dakika", "emoji": "1️⃣"},
+            {"sebep": "Flood,Spam ve Capslock Kullanımı", "suresi": "5m", "zaman": "5 Dakika", "emoji": "2️⃣"},
+            {"sebep": "Özel Odalara İzinsiz Giriş ve Trol", "suresi": "1h", "zaman": "1 Saat", "emoji": "3️⃣"},
+            {"sebep": "Küfür, Argo, Hakaret ve Rahatsız Edici Davranış", "suresi": "5m", "zaman": "5 Dakika", "emoji": "4️⃣"},
+            {"sebep": "Abartı, Küfür ve Taciz Kullanımı!", "suresi": "30m", "zaman": "30 Dakika", "emoji": "5️⃣"},
+            {"sebep": "Dini, Irki ve Siyasi değerlere Hakaret", "suresi": "14d", "zaman": "2 Hafta", "emoji": "6️⃣"},
+            {"sebep": "Sunucu Kötüleme ve Kişisel Hakaret", "suresi": "1h", "zaman": "1 Saat", "emoji": "7️⃣"},
+            {"sebep": "Soundpad, Bass gibi Uygulama Kullanmak", "suresi": "30m", "zaman": "30 Dakika", "emoji": "8️⃣"}
+       ]
+}

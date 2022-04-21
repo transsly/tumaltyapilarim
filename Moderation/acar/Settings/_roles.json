@@ -1,0 +1,103 @@
+{
+
+    "kayıtsızRolleri": [],
+    "kayıtsızRolü": "",
+    "erkekRolü": "",
+    "kadınRolü": "",
+    "erkekRolleri": [],
+    "kadınRolleri": [],
+    "teyitciRolleri": [],
+    "teyitciSorumlusuRolleri": [],
+    "tagRolü": "",
+    "boosterRolü": "",
+    "vipRolü": "",
+
+    "kurucuRolleri": [],
+    "altYönetimRolleri": [],
+    "yönetimRolleri": [],
+    "üstYönetimRolleri": [],
+    "roleManager": [],
+    "banHammer": [],
+    "jailHammer": [],
+    "voiceMuteHammer": [], 
+    "muteHammer": [],
+    "teleportHammer": [],
+    "abilityHammer": [],
+    "warnHammer": [],
+    "muteRolü": "",
+    "voicemuteRolü": "",
+    "jailRolü": "",
+    "şüpheliRolü": "",
+    "yasaklıTagRolü": "",
+    "MinYetkili": "", 
+
+    "talentPerms":[
+        { "Permission": ["934759883855757313","934759883855757320"], "Name": "VIP", "Commands": ["vip"], "Roles": ["934759883809632306"] }
+        
+     ],
+
+    "Monthly": {
+        "sistem": false,
+        "One": "",
+        "Three": "",
+        "Six": "",
+        "Nine": "",
+        "Years": ""
+    },
+
+    "Katıldı": "",
+    
+    "banKoru": [
+        
+      ],
+    
+    "Yetkiler": [
+     
+      ],
+    "blokluRoller": [],
+
+    "Buttons": {
+        "vk": "934759883746721799",
+        "dc": "934759883746721797",
+        "alone": "934759883755094036",
+        "lovers": "934759883755094037",
+        "lgbt": "",
+        "cekiliskatilimcisi": "934759883687989265",
+        "etkinlikkatilimcisi": "934759883687989266",
+
+        "oğlak": "934759883734126622",
+        "kova": "934759883725758493",
+        "balık": "934759883725758492",
+        "koç": "934759883725758491",
+        "boğa": "934759883725758490",
+        "ikizler": "934759883725758489",
+        "yengeç": "934759883725758488",
+        "aslan": "934759883725758487",
+        "başak": "934759883725758486",
+        "terazi": "934759883725758485",
+        "akrep": "934759883725758484",
+        "yay" : "934759883713163314",
+
+        "mor": "934777724097151007",
+        "lila": "934781200780902410",
+        "kırmızı": "934781223824400395",
+        "yeşil": "934781257672458300",
+        "turkuaz": "934781288513175592",
+        "turuncu": "934781324542222406",
+        "mavi": "934781338983235605",
+
+        "fortnite": "934759883746721793",
+        "valorant": "934759883746721794",
+        "moblg": "934759883734126628",
+        "lol": "934759883734126630",
+        "csgo": "934759883734126631",
+        "bh": "934759883746721792",
+        "mc": "934759883734126629",
+        "wr": "934759883734126627",
+        "gta": "934759883734126625",
+        "fivem": "934759883734126626",
+        "rust": "934759883734126624",
+        "pubg": "934759883746721796",
+        "pubgmobile": "934759883746721795"
+    }
+}
