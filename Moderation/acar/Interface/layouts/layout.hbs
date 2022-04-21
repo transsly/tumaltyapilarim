@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ title }} </title>
+        <link rel="apple-touch-icon" sizes="76x76" href="./assets/img//apple-icon.png">
+        <meta charset="utf-8" />
+        <link rel="icon" type="image/png" href="./assets/img//favicon.png">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+        <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-blue-grey.css">
+        <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans'>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="/css/main.css">
+        <link href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+        <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+        <link src="http://bootswatch.com/flatly/bootstrap.css" type="text/css">
+        <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    </head>
+<style>
+.status {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.status .panel-title {
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    margin-bottom: 10px;
+    font-weight: bold;
+    color: #fff;
+    line-height: 40px;
+    padding-top: 15px;
+    letter-spacing: -0.10px;
+}
+</style>
+ <div class="w3-bar w3-theme-d4 w3-left-align w3-large">
+  <a href="/" class="w3-bar-item w3-button w3-padding-large w3-theme-d4"><img src={{ayarlar.embed.iconURL}} class="w3-circle" style="height:23px;width:23px"> {{ayarlar.sunucuIsmi}}</a>
+ <a href="/cezalar" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" title="Son 20 Ceza"><i class="fa fa-history fa-fw"></i> Cezalar</a>
+ <div class="w3-dropdown-hover w3-hide-small">
+    <button class="w3-button w3-padding-large" title="İstatistikler"><i class="glyphicon glyphicon-stats"></i> İstatistikler ▼</button>     
+    <div class="w3-dropdown-content w3-card-4 w3-bar-block" style="width:300px">
+        <a href="/ses" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" title="Ses Sıralaması"><i class="glyphicon glyphicon-volume-up"></i> Sesler</a>
+        <a href="/mesaj" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" title="Mesaj Sıralaması"><i class="glyphicon glyphicon-comment"></i> Mesajlar</a>
+    </div>
+  </div>
+  <a href="/zenginler" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" title="Zengin Sıralaması"><i class="fa fa-turkish-lira"></i> Zenginler</a>
+  {{#if user}}
+  <a href="/logout" class="w3-bar-item w3-button w3-hide-small w3-right w3-padding-large w3-hover-white">Çıkış Yap</a>
+  <a href="/profil/{{user.id}}" class="w3-bar-item w3-button w3-hide-small w3-right w3-padding-large w3-hover-white"><img class="w3-circle" style="height:23px;width:23px" src="{{reqMember}}"></img> {{user.username}}#{{user.discriminator}}</a>
+  {{else}}
+  <a href="/login" class="w3-bar-item w3-button w3-hide-small w3-right w3-padding-large w3-hover-white" title="Sunucuya Katıl">Giriş Yap</a>
+  {{/if}}
+ </div>
+
+{{{ body }}}
+
+
+ <div class="w3-bottom">
+Tüm Hakları Saklıdır. 2021 @ {{ayarlar.sunucuIsmi}}
+ </div>
+</html>

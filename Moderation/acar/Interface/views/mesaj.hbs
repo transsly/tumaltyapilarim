@@ -1,0 +1,19 @@
+<center><h4>Genel Mesaj Sıralaması</h4></center>
+<center><table class="styled-table">
+     <thead>
+        <tr>
+        <td>#</td>
+        <th>Üye Bilgisi</th>
+        <th>Mesaj Bilgisi</th>
+    </tr>
+		</thead>
+        		<tbody>
+    {{#each mesajstat}}
+    <tr>
+        <td>{{Id}}.</td>
+        <td><img class="avatar" src={{Avatar}}> <a href="/profil/{{UyeID}}">{{Uye}}</a></td>
+        <td><center>{{Mesaj}} mesaj</center></td>
+    </tr>
+    {{/each}}
+    </tbody>
+</table></center>

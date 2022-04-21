@@ -1,0 +1,30 @@
+ <center><h4>{{ayarlar.sunucuIsmi}} 20 Zengin Listesi</h4></center>
+ <style>
+.acar {
+    width: 920px;
+    height: 100px;
+}
+ </style>
+<center>
+<div>
+<table class="styled-table" >
+     <thead>
+        <tr>
+        <th>#</th>
+        <th>Üye Bilgisi</th>
+        <th>Coin</th>
+    </tr>
+		</thead>
+        		<tbody>
+    {{#each zengins}}
+    <tr>
+        <td>{{Id}}</td>
+        <td><img class="avatar" src={{Avatar}}> <a href="/profil/{{UyeID}}">{{Uye}}</a></td>
+        <td>{{Coin}} 💴 </td>
+    </tr>
+    {{/each}}
+    </tbody>
+</table>
+</div>
+</center>
+

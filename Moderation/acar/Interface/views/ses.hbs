@@ -1,0 +1,58 @@
+</br>
+<center>
+    <table class="styled-table">
+            <thead>
+        <tr>
+        <td><center>Genel Ses Sıralaması</center></td>
+        <th><center>Public Ses Sıralaması</center></th>
+    </tr>
+		</thead>
+        <tbody>
+            <tr>
+                <td><table class="styled-table">
+     <thead>
+        <tr>
+        <td>#</td>
+        <th>Üye Bilgisi</th>
+        <th>Ses Bilgisi</th>
+    </tr>
+		</thead>
+        		<tbody>
+    {{#each sesstat}}
+    <tr>
+        <td>{{Id}}.</td>
+        <td><img class="avatar" src={{Avatar}}> <a href="/profil/{{UyeID}}">{{Uye}}</a></td>
+        <td><center>{{Ses}}</center></td>
+    </tr>
+    {{/each}}
+    </tbody>
+</table></td>
+                <td><table class="styled-table">
+     <thead>
+        <tr>
+        <td>#</td>
+        <th>Üye Bilgisi</th>
+        <th>Ses Bilgisi</th>
+    </tr>
+		</thead>
+        		<tbody>
+    {{#each publicstat}}
+    <tr>
+        <td>{{Id}}.</td>
+        <td><img class="avatar" src={{Avatar}}> <a href="/profil/{{UyeID}}">{{Uye}}</a></td>
+        <td><center>{{Ses}}</center></td>
+    </tr>
+    {{/each}}
+    </tbody>
+</table></td>
+            </tr>
+        </tbody> 
+    </table>
+</center>
+
+
+
+
+
+
+

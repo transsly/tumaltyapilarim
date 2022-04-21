@@ -1,0 +1,34 @@
+ <center><h4>{{ayarlar.sunucuIsmi}} Son Atılan 35 Ceza Listesi</h4></center>
+ <style>
+.acar {
+    width: 920px;
+    height: 100px;
+}
+ </style>
+<center>
+<div>
+<table class="styled-table" >
+     <thead>
+        <tr>
+        <th>#</th>
+        <th>Üye Bilgisi</th>
+        <th>Yetkili Bilgisi</th>
+        <th>Ceza Tipi</th>
+        <th>Tarih</th>
+    </tr>
+		</thead>
+        		<tbody>
+    {{#each cezas}}
+    <tr>
+        <td>#{{No}} ({{#if Aktif}}<span style="color: chartreuse;">Aktif</span>{{else}}<span style="color: brown;">Aktif Değil!</span>{{/if}})</td>
+        <td><center><img class="avatar" src={{Avatar}}> <a href="/profil/{{Id}}">{{Uye}}</a></center></td>
+        <td><center><img class="avatar" src={{YetkiliAvatar}}> <a href="/profil/{{YId}}">{{Yetkili}}</a></center></td>
+        <td>{{Tip}} {{#if AtilanSure}} ({{AtilanSure}}) {{/if}}</td>
+        <td><center>{{Tarih}}</center></td>
+    </tr>
+    {{/each}}
+    </tbody>
+</table>
+</div>
+</center>
+
