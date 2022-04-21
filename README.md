@@ -1,3 +1,2 @@
 # tumaltyapilarim
-Se7enda Kullandığım V12 Bot Sistemim Fakat Şu Şekilde Burdan Acar Abime Çok Teşekür Ediyorum Onun Sayesinde Buralara Geldim Emeği Çok Fazla Starlarsanız Sevinirim.
-v13 e Geçtiğim İçin Paylaşıyorum Herkes Alsın Kullansın Geliştirsin Sorunsuz Çalışıyor Sistem <3 Yardım Almak İçin : Transsly#0001
+Kullandığım Altyapıları Paylaşma Sebebim Öncelikle 13 e Geçiş Yapmam Ve V12 ninde Aralık Ayında Kalkacak Olması Öncelikle Bu Altyapıda Bana Yardımcı Olan Acar Abime Sonsuz Teşekürler Eğer Buralara Gelebildiysem Bu Zamana Kadar Onun Sayesinde Altyapıyı Benden Önce Sehira Kardeşim de Paylaşmıştı Onunda Githubına Göz Atabilirsiniz Ben Sunuculara Özel Bot Yapmayı Bıraktım Üniversitemden Dolayı Sehira Kardeşimle İletişme Geçebilirsiniz İşinin Ehlidir Sadece Discord Pub Olarak Hermeste Bulunup Oraya Bot Yapıyorum Ve Bu Sistemimide Geliştirmeniz İçin Sizlere Paylaşıyorum Lütfen Ücret Karşılığında Birine Yapıp Haram Para Yemeyin.
