@@ -1,2 +1,2 @@
 # tumaltyapilarim
-Kullandığım Altyapıları Paylaşma Sebebim Öncelikle V13 e Geçiş Yapmam Ve V12 ninde Aralık Ayında Kalkacak Olması Öncelikle Bu Altyapıda Bana Yardımcı Olan Acar Abime Sonsuz Teşekürler Eğer Buralara Gelebildiysem Bu Zamana Kadar Onun Sayesinde Altyapıyı Benden Önce Sehira Kardeşim de Paylaşmıştı Onunda Githubına Göz Atabilirsiniz Ben Sunuculara Özel Bot Yapmayı Bıraktım Üniversitemden Dolayı Sehira Kardeşimle İletişme Geçebilirsiniz İşinin Ehlidir Sadece Discord Pub Olarak Hermeste Bulunup Oraya Bot Yapıyorum Ve Bu Sistemimide Geliştirmeniz İçin Sizlere Paylaşıyorum Lütfen Ücret Karşılığında Birine Yapıp Haram Para Yemeyin.
+ZAMANINDA EARLY İÇİN İTLER KÖPEKLER GİBİ YALVARAN ACARA GELSİN XD
